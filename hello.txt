@@ -1,1 +1,2 @@
 1.say hello
+2.say what's the weather
