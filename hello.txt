@@ -1,5 +1,0 @@
-1.say hello
-2.say what's the weather
-3.say bye
-4.do walk
-5.do song
